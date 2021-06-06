@@ -11,11 +11,11 @@ You can simply run the following commands in a terminal. If you prefer, use a vi
 
 ### [MEV in eth2 - early exploration](notebooks/mev-in-eth2/eth2-mev-calc.ipynb)
 [short description]
-
+Live: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flashbots/eth2-research/HEAD?filepath=notebooks%2Fmev-in-eth2%2Feth2-mev-calc.ipynb)
 ## Articles
 ### [MEV in eth2]()
 
-Live: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flashbots/eth2-research/HEAD?filepath=notebooks%2Fmev-in-eth2%2Feth2-mev-calc.ipynb)
+
 
 [short description]
 
