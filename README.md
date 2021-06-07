@@ -1,4 +1,4 @@
-# eth2-research
+# eth2-research [wip readme]
 
 Assessing the nature and impact of MEV in eth2.
 
