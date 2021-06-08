@@ -2,9 +2,23 @@
 
 Assessing the nature and impact of MEV in eth2.
 
-## Starting up
+## Starting up (locally)
+Requirements: 
+* python, pip, and [jupyter-notebook](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html)
 
+Instructions:
+* create a virtualenv: (optional)
 
+    `python3 -m venv ~/venv`
+* activate the virtualenv: (optional)
+
+    `source ~/venv/bin/activate`
+* install dependencies:
+
+    `pip3 install -r binder/requirements.txt`
+* open notebooks in a browser:
+
+    `jupyter notebook`
 
 
 ## Notebooks
