@@ -32,12 +32,18 @@ Live: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 ### [MEV in eth2 - an early exploration](https://hackmd.io/@flashbots/ryuH4gn7d)
 In this post, we study transaction ordering in eth2 and analyze MEV-enabled staking yields. We find that MEV will significantly boost validator rewards but may reinforce inequalities within participants of eth2. We also discuss qualitative aspects of MEV in eth2 such as the potential dynamics that will unfold between its largest stakeholders like exchanges and validator pools.
 
+## Videos
+* [MEV after The Merge with Nethermind and Flashbots](https://youtu.be/Hjd9WowOa3g) by Tomasz Stańczak & Alex Obadia (ETHGlobal Scaling Ethereum eth2 conference)
+* [MEV on eth2](https://youtu.be/zsgC6mNP9eU) by Alex Obadia (ETHGlobal Scaling Ethereum Roast)
+* [MEV after EIP-1559 and the Merge](https://youtu.be/XhZ2FDMdVUM) by Alejo Salles & Alex Obadia (EthCC 4)
+* [The MEV in Nethermind in eth2](https://youtu.be/6MeKNSqC2es) by Tomasz Stańczak & Marcello Bardus (EthCC 4)
+
 
 ## Related Repos
 - https://github.com/flashbots/raytracing
 
 ### FRPs
 - [FRP 11: MEV in eth2 exploration](https://github.com/flashbots/mev-research/blob/main/FRPs/FRP-11.md)
-- [FRP 13: Flashbots in eth2]()
-- [FRP 14: Modeling inequalities]()
+- [FRP 13: Flashbots in eth2](https://github.com/flashbots/mev-research/blob/main/FRPs/FRP-13.md)
+- [FRP 14: Cryptoeconomic design exploration](https://github.com/flashbots/mev-research/blob/main/FRPs/FRP-14.md)
 
